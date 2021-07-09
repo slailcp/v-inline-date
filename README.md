@@ -3,6 +3,7 @@
 ## 使用
 注意,使用v-inline-date的时候一定要确保项目安装了momentjs
 ```js
+npm i -S v-inline-date
 // main.js
 import vInlineDate from "v-inline-date"; 
 import 'v-inline-date/v-inline-date/v-inline-date.css'
